@@ -166,13 +166,13 @@ The app will open at `http://localhost:8501`
 
 ## Project Screenshots
 
-<img width="1500" height="700" alt="Screenshot 2026-05-26 151813" src="https://github.com/user-attachments/assets/38879088-0c90-4d4f-8b63-d4cda8b458b3" />
+<img width="1000" height="500" alt="Screenshot 2026-05-26 151813" src="https://github.com/user-attachments/assets/38879088-0c90-4d4f-8b63-d4cda8b458b3" />
 
-<img width="1500" height="700" alt="Screenshot 2026-05-26 151903" src="https://github.com/user-attachments/assets/a11dcfb0-bd29-4e23-b1de-6d36a27f7bdb" />
+<img width="1000" height="500" alt="Screenshot 2026-05-26 151903" src="https://github.com/user-attachments/assets/a11dcfb0-bd29-4e23-b1de-6d36a27f7bdb" />
 
-<img width="1500" height="700" alt="Screenshot 2026-05-26 152020" src="https://github.com/user-attachments/assets/09abc7a9-25fd-42f9-abdd-2891cdac467d" />
+<img width="1000" height="500" alt="Screenshot 2026-05-26 152020" src="https://github.com/user-attachments/assets/09abc7a9-25fd-42f9-abdd-2891cdac467d" />
 
-<img width="1500" height="700" alt="Screenshot 2026-05-26 152107" src="https://github.com/user-attachments/assets/eefaa95d-9c33-44ac-b5af-977f031e2259" />
+<img width="1000" height="500" alt="Screenshot 2026-05-26 152107" src="https://github.com/user-attachments/assets/eefaa95d-9c33-44ac-b5af-977f031e2259" />
 
 
 
